@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe.config
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.pdb
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Form1.resources
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Properties.Resources.resources
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.exe
+C:\Users\denim\source\repos\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.pdb
